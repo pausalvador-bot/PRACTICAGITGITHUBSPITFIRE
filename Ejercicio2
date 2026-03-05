@@ -1,1 +1,34 @@
  
+(a) Función valorAbsoluto
+
+Especificación
+
+Precondición:
+
+x es cualquier número entero 
+
+Postcondición:
+
+Devuelve r tal que:
+
+r ≥ 0
+
+si x ≥ 0  r = x
+
+si x < 0  r = −x
+
+(c) Acción escribirPrimos
+
+Especificación
+
+Precondición:
+
+inicio ≥ 1
+
+fin ≥ inicio
+
+Postcondición:
+
+Se escriben todos los números primos p con inicio ≤ p ≤ fin
+
+No se devuelve ningún valor

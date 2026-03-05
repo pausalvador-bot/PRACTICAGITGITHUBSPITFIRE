@@ -2,5 +2,5 @@ A. funcio importAmbIVA(importSenseIVA: real) : real
 
 B. accio escriureNIF(dni: enter)
 
-C. funcio calculaRendiment(capital: real, interes: real) : real
+C.accio calculaRendiment(capital: real, interes: real, rendiment: real)
 

@@ -1,1 +1,5 @@
 
+A(m,5.3,u) 	Se pasa un literal (5.3) a un parámetro de entrada/salida, debe ser una variable.
+y := B(u,x)	Se pasa un booleano (u) donde se espera un entero.
+si C(e,f)	Se pasa una variable no inicializada (f) como argumento.
+D(y,230+m)	Se pasa una expresión/literal al parámetro de salida, debe ser una variable.

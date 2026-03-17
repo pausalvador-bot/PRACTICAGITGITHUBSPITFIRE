@@ -1,1 +1,18 @@
 
+#include <stdio.h>
+
+int main() {
+    int a = 1, b = 1, temp;
+    double ratio;
+
+    for(int i = 0; i < 20; i++) {
+        ratio = (double)b / a;
+        printf("%.5f\n", ratio);
+
+        temp = a + b;
+        a = b;
+        b = temp;
+    }
+
+    return 0;
+}
